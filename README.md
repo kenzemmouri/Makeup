@@ -10,14 +10,7 @@ Création de plusieurs composants pour une conception plus optimale.
 Utilisation du langage JSX (Javascript XML) / CSS.
 Chaque composant est caractérisé par des props et des états.
 Récupération des données  de l'API a l'aide du FETCH et de AXIOS.
-<<<<<<< HEAD
 Utilisation des HOC.
 Utilisation des HOOKS : 
      -USESATATE qui permet de changer l'état des variables de recherche.
      -USEEFFECT avec deux paramétres qui permet de déclencher la fonction a chaque fois que le deuxième paramétre change.
-=======
-Utilisation des HOOKS : 
-     -USESATATE qui permet de changer l'état des variables de recherche.
-     -USEEFFECT avec deux paramétres qui permet de déclencher la fonction a chaque fois que le deuxième paramétre change.
-
->>>>>>> 66ee0445ddbecdc19099db935c463ef4ed7a16b5
