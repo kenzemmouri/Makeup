@@ -2,16 +2,38 @@
   text-align: center;
 }
 body{
-  background-image: url("wall.jpg") ;
-  background-repeat: repeat;
+  background-image: url("https://media3.giphy.com/media/xT8qBrVWtuRwWNAp1K/giphy.gif?cid=ecf05e479948ian03vl0xgtubl3oozpvn0tla6nutap1y30w&rid=giphy.gif&ct=g") ;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: black;
+  
 }
 h1{
-  color: blueviolet;
+  color: black;
+ font-weight: bold;
+ font-family:Verdana, Geneva, Tahoma, sans-serif
 }
 h2{
-  color: darkslateblue ;
-
+  color: black ;
+  font-weight: bold;
+  font-family:Verdana, Geneva, Tahoma, sans-serif
 }
+.p{
+  color: black ;
+  font-weight: bolder;
+  font-family:'Times New Roman', Times, serif
+  
+}
+
+.topnav-centered a {
+  float: none;
+  position: absolute;
+  top: 30%;
+  left: 40%;
+  transform: translate(-50%, -50%);
+  
+}
+
 
 .App-logo {
   height: 40vmin;
@@ -46,4 +68,9 @@ h2{
   to {
     transform: rotate(360deg);
   }
+ 
+}
+.item {
+ font-size: large;
+ font-weight:bolder;
 }
